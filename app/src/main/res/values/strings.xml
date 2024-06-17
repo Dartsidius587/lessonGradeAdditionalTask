@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lessonGradeAdditionalTask</string>
+    <string name="input_grate">Введите оценку</string>
+    <string name="menu_change_color">Цветовое качество</string>
+    <string name="menu_exit">Выход из приложения</string>
+    <string name="random_digit">Случайное число</string>
+</resources>
